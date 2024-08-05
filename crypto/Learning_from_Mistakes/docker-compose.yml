@@ -1,0 +1,5 @@
+services:
+  learning-from-mistakes:
+    image: anssi/fcsc2020-crypto-learning-from-mistakes:latest
+    ports:
+      - "4000:4000"

@@ -1,0 +1,5 @@
+services:
+  appellation-origine-protegee:
+    image: anssi/fcsc2024-crypto-appellation-origine-protegee:latest
+    ports:
+      - "4000:4000"

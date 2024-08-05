@@ -1,0 +1,5 @@
+services:
+  hash-ish:
+    image: anssi/fcsc2022-crypto-hash-ish:latest
+    ports:
+      - "4000:4000"
